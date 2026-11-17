@@ -35,7 +35,7 @@
       <p>📍 Colombia &nbsp;·&nbsp; 🏠 Remote &nbsp;·&nbsp; 🗣️ English & Spanish</p>
       <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=800&color=CC342D&vCenter=true&width=400&height=32&lines=LLM+agents+%26+tool+use;Retrieval%3A+vector+%2B+graph;Speech%2C+voice+%26+video+AI;Evals%2C+guardrails+%26+LLMOps" alt="LLM agents & tool use · Retrieval: vector + graph · Speech, voice & video AI · Evals, guardrails & LLMOps" />
       <p>I design and ship <b>production AI systems</b>: agents, retrieval, and speech and video generation, along with the full-stack platforms they run on. I've been putting LLMs into production since early 2023.</p>
-      <p><b>5 yrs</b> shipping &nbsp;·&nbsp; <b>1,000+</b> merged PRs &nbsp;·&nbsp; <b>1,700+</b> commits &nbsp;·&nbsp; <b>40+</b> repos</p>
+      <p><b>+8 yrs</b> shipping &nbsp;·&nbsp; <b>1,000+</b> merged PRs &nbsp;·&nbsp; <b>1,700+</b> commits &nbsp;·&nbsp; <b>40+</b> repos</p>
     </td>
     <td width="42%" valign="top">
       <h3>⚡ Expertise</h3>
