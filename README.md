@@ -1,28 +1,61 @@
-<!-- ============================== HERO ============================== -->
+<!-- ========================= GITHUB ACTIVITY ========================= -->
+
+<div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=SecolDevs&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0d1117&title_color=CC342D&icon_color=CC342D&text_color=c9d1d9&custom_title=GitHub%20stats" />
-  <img align="right" width="400" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=SecolDevs&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=ffffff&title_color=CC342D&icon_color=CC342D&text_color=24292f&custom_title=GitHub%20stats" />
+  <img width="49%" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=SecolDevs&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=ffffff&title_color=CC342D&icon_color=CC342D&text_color=24292f&custom_title=GitHub%20stats" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=SecolDevs&hide_border=true&background=0D1117&stroke=30363D&ring=CC342D&fire=CC342D&currStreakLabel=CC342D&currStreakNum=C9D1D9&sideNums=C9D1D9&sideLabels=8B949E&dates=8B949E" />
+  <img width="49%" alt="GitHub streak" src="https://streak-stats.demolab.com?user=SecolDevs&hide_border=true&background=FFFFFF&stroke=D0D7DE&ring=CC342D&fire=CC342D&currStreakLabel=CC342D&currStreakNum=24292F&sideNums=24292F&sideLabels=57606A&dates=57606A" />
 </picture>
 
-<h1>Sebastian Colón</h1>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=SecolDevs&bg_color=0d1117&color=c9d1d9&title_color=CC342D&line=CC342D&point=f0f6fc&area=true&area_color=CC342D&hide_border=true&custom_title=Contribution%20activity" />
+  <img width="100%" alt="Contribution activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=SecolDevs&bg_color=ffffff&color=24292f&title_color=CC342D&line=CC342D&point=24292f&area=true&area_color=CC342D&hide_border=true&custom_title=Contribution%20activity" />
+</picture>
 
-<h3>Sr. Software Engineer · AI Engineer</h3>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SecolDevs/SecolDevs/output/github-snake-dark.svg" />
+  <img width="100%" alt="Contribution snake animation" src="https://raw.githubusercontent.com/SecolDevs/SecolDevs/output/github-snake.svg" />
+</picture>
 
-📍 Colombia &nbsp;·&nbsp; 🏠 Remote &nbsp;·&nbsp; 🗣️ English & Spanish
+</div>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=800&color=CC342D&vCenter=true&width=400&height=32&lines=LLM+agents+%26+tool+use;Retrieval%3A+vector+%2B+graph;Speech%2C+voice+%26+video+AI;Evals%2C+guardrails+%26+LLMOps" alt="LLM agents & tool use · Retrieval: vector + graph · Speech, voice & video AI · Evals, guardrails & LLMOps" />
+---
 
-I design and ship **production AI systems**: agents, retrieval, and speech and video generation, along with the full-stack platforms they run on. I've been putting LLMs into production since early 2023.
+<!-- ============================ OVERVIEW ============================ -->
 
-**5 yrs** shipping &nbsp;·&nbsp; **1,000+** merged PRs &nbsp;·&nbsp; **1,700+** commits &nbsp;·&nbsp; **40+** repos
+<table>
+  <tr>
+    <td width="58%" valign="top">
+      <h1>Sebastian Colón</h1>
+      <h3>Sr. Software Engineer · AI Engineer</h3>
+      <p>📍 Colombia &nbsp;·&nbsp; 🏠 Remote &nbsp;·&nbsp; 🗣️ English & Spanish</p>
+      <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=800&color=CC342D&vCenter=true&width=400&height=32&lines=LLM+agents+%26+tool+use;Retrieval%3A+vector+%2B+graph;Speech%2C+voice+%26+video+AI;Evals%2C+guardrails+%26+LLMOps" alt="LLM agents & tool use · Retrieval: vector + graph · Speech, voice & video AI · Evals, guardrails & LLMOps" />
+      <p>I design and ship <b>production AI systems</b>: agents, retrieval, and speech and video generation, along with the full-stack platforms they run on. I've been putting LLMs into production since early 2023.</p>
+      <p><b>5 yrs</b> shipping &nbsp;·&nbsp; <b>1,000+</b> merged PRs &nbsp;·&nbsp; <b>1,700+</b> commits &nbsp;·&nbsp; <b>40+</b> repos</p>
+    </td>
+    <td width="42%" valign="top">
+      <h3>⚡ Expertise</h3>
+      <ul>
+        <li>🧠 <b>AI agents</b>, tool use & MCP</li>
+        <li>🔎 <b>RAG</b>: vector + graph retrieval</li>
+        <li>🎙️ <b>Speech, voice & video</b> AI</li>
+        <li>🧪 <b>Evals, guardrails</b> & LLMOps</li>
+        <li>🧩 <b>OpenAI · Anthropic · LangGraph</b></li>
+        <li>🐍 <b>Python</b> · 💎 <b>Rails</b> · 🟦 <b>TypeScript</b></li>
+        <li>☁️ <b>GCP & AWS</b> · Kubernetes · Terraform</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 <!-- Add your links here, e.g.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-handle)
 [![Portfolio](https://img.shields.io/badge/Portfolio-CC342D?style=flat-square&logo=googlechrome&logoColor=white)](https://your-site.com)
 -->
-
-<br clear="right"/>
 
 <!-- ========================== ACHIEVEMENTS ========================== -->
 
@@ -254,35 +287,12 @@ AI features are only as good as the platform under them. I also own the rest of 
 
 ---
 
-## 📈 GitHub activity
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=SecolDevs&hide_border=true&background=0D1117&stroke=30363D&ring=CC342D&fire=CC342D&currStreakLabel=CC342D&currStreakNum=C9D1D9&sideNums=C9D1D9&sideLabels=8B949E&dates=8B949E" />
-  <img width="49%" alt="GitHub streak" src="https://streak-stats.demolab.com?user=SecolDevs&hide_border=true&background=FFFFFF&stroke=D0D7DE&ring=CC342D&fire=CC342D&currStreakLabel=CC342D&currStreakNum=24292F&sideNums=24292F&sideLabels=57606A&dates=57606A" />
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=SecolDevs&bg_color=0d1117&color=c9d1d9&title_color=CC342D&line=CC342D&point=f0f6fc&area=true&area_color=CC342D&hide_border=true&custom_title=Contribution%20activity" />
-  <img width="100%" alt="Contribution activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=SecolDevs&bg_color=ffffff&color=24292f&title_color=CC342D&line=CC342D&point=24292f&area=true&area_color=CC342D&hide_border=true&custom_title=Contribution%20activity" />
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SecolDevs/SecolDevs/output/github-snake-dark.svg" />
-  <img width="100%" alt="Contribution snake animation" src="https://raw.githubusercontent.com/SecolDevs/SecolDevs/output/github-snake.svg" />
-</picture>
-
-</div>
-
 <!--
 Most of my work happens in private org repositories. For the charts above to reflect it:
 GitHub → Settings → Public profile → Contributions & activity → enable "Include private contributions on my profile".
 The snake is regenerated every 12 hours by .github/workflows/snake.yml (output branch: `output`).
 Achievement badges are local copies in assets/achievements/. Swap the image and tier when one levels up.
 -->
-
----
 
 <div align="center">
 <sub>Building AI systems that are useful, affordable, and safe to let act.</sub>
